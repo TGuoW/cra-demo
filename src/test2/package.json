@@ -1,0 +1,11 @@
+{
+  "name": "tapable",
+  "version": "1.1.3",
+  "main": "index.js",
+  "type": "module",
+  "module": "index.mjs",
+  "browser": {
+    "./index.js": "./index.js",
+    "./index.mjs": "./index.mjs"
+  }
+}
